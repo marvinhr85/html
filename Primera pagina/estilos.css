@@ -1,0 +1,19 @@
+header{
+    font-size: 25px;
+    font-style: normal;
+}
+nav{
+    background: brown;
+    font-size: 20px;
+    padding: 30px;
+}
+
+.articulo1{
+background: green;
+}
+.articulo2{
+background: yellow;
+}
+.articulo3{
+background: red;
+}
